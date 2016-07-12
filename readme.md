@@ -1,5 +1,4 @@
 # LaraTask
-
 The Simple Laravel-based Task Manager
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
