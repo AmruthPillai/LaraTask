@@ -1,0 +1,12 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$font-stack: 'Lato', sans-serif;
+
+html, body {
+  font-family: $font-stack;
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 700;
+}

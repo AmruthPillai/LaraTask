@@ -1,0 +1,6 @@
+vendor/
+node_modules/
+
+# Laravel 5 Specific
+bootstrap/cache/
+.env
